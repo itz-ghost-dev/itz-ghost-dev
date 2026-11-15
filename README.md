@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm SUBHAJIT</h1>
-<h3 align="center">**  Aspiring Software Developer | B.Tech AI & DS Student  **</h3>
+<h3 align="center">**  Front End Web Developer | B.Tech AI & DS Student  **</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=itz-ghost-dev">
